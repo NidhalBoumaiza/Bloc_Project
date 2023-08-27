@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">bloc</string>
+    <string name="facebook_app_id">827275948778191</string>
+    <string name="fb_login_protocol_scheme">fb827275948778191</string>
+    <string name="facebook_client_token">827426769064a8d3a882fae128732a6a</string>
+</resources>
+
+
