@@ -207,13 +207,13 @@ class _SignupSingninScreenState extends State<SignupSingninScreen> {
                   _handleSignIn();
                 }, AppColor.primaryColor, FontAwesomeIcons.google,
                     "Continue with Google"),
-                const SizedBox(height: 30),
-                ButtonSingnin(
-                    SizeScreen.width * 0.85, SizeScreen.height * 0.065,
-                    () async {
-                  facebookLogin();
-                }, AppColor.primaryColor, FontAwesomeIcons.facebook,
-                    "Continue with Facebook"),
+                // const SizedBox(height: 30),
+                // ButtonSingnin(
+                //     SizeScreen.width * 0.85, SizeScreen.height * 0.065,
+                //     () async {
+                //   facebookLogin();
+                // }, AppColor.primaryColor, FontAwesomeIcons.facebook,
+                //     "Continue with Facebook"),
                 const SizedBox(height: 30),
                 GestureDetector(
                   onTap: () {

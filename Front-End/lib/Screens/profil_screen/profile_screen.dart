@@ -412,7 +412,7 @@ class ProfileScreen extends StatelessWidget {
                                               ),
                                             );
                                           }
-                                        },
+                                        }, future: null,
                                       ),
                                       GestureDetector(
                                         onTap: () {
